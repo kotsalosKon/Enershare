@@ -1,3 +1,4 @@
+[![ENERSHARE](./wp-content/uploads/logo_Enershare_White.png "Logo")](http://enershare.eu/)
 # Enershare MVP2.0
 ## TSG connector
 ###  Description and purpose
